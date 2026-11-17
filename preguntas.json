@@ -1,0 +1,102 @@
+[
+    {
+        "pregunta": "¿A qué se denomina séptimo arte?",
+        "opciones": ["A: Pintura", "B: Escultura", "C: Cine"],
+        "respuesta": 2
+    },
+    {
+        "pregunta": "¿Cuáles son las notas musicales en el orden correcto?",
+        "opciones": ["A: Si, La, Sol, Re, La, Mi", "B: Do, Re, Mi, Fa, Sol, La, Si", "C: Mi, Sol, Si, Do, Re, Fa, La"],
+        "respuesta": 1
+    },
+    {
+        "pregunta": "¿Quién pintó La noche estrellada?",
+        "opciones": ["A: Vincent van Gogh", "B: Pablo Picasso", "C: Salvador Dalí"],
+        "respuesta": 0
+    },
+    {
+        "pregunta": "¿En qué año murió Kurt Cobain?",
+        "opciones": ["A: 1994", "B: 1995", "C: 1996"],
+        "respuesta": 0
+    },
+    {
+        "pregunta": "¿Cómo se le denomina al centro de un átomo?",
+        "opciones": ["A: Protón", "B: Electrón", "C: Núcleo"],
+        "respuesta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el símbolo químico del oro?",
+        "opciones": ["A: He", "B: Au", "C: Fe"],
+        "respuesta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el único mamífero que puede volar?",
+        "opciones": ["A: Ballena", "B: Delfín", "C: Murciélago"],
+        "respuesta": 2
+    },
+    {
+        "pregunta": "¿Cuántos corazones tienen los pulpos?",
+        "opciones": ["A: 1", "B: 3", "C: 5"],
+        "respuesta": 1
+    },
+    {
+        "pregunta": "¿Quién pintó el famoso cuadro La última cena?",
+        "opciones": ["A: Leonardo da Vinci", "B: Miguel Ángel", "C: Pablo Picasso"],
+        "respuesta": 0
+    },
+    {
+        "pregunta": "¿Cómo se llama la primera mujer que viajó al espacio?",
+        "opciones": ["A: Sally Ride", "B: Valentina Tereshkova", "C: Mae Jemison"],
+        "respuesta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+        "opciones": ["A: Saturno", "B: Júpiter", "C: Neptuno"],
+        "respuesta": 1
+    },
+    {
+        "pregunta": "¿En qué año llegó Cristóbal Colón a América?",
+        "opciones": ["A: 1472", "B: 1442", "C: 1492"],
+        "respuesta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el río más largo del mundo?",
+        "opciones": ["A: Amazonas", "B: Nilo", "C: Yangtsé"],
+        "respuesta": 0
+    },
+    {
+        "pregunta": "¿Quién escribió la obra 'Romeo y Julieta'?",
+        "opciones": ["A: William Shakespeare", "B: Miguel de Cervantes", "C: Gabriel García Márquez"],
+        "respuesta": 0
+    },
+    {
+        "pregunta": "¿Cuál es el océano más grande del mundo?",
+        "opciones": ["A: Atlántico", "B: Índico", "C: Pacífico"],
+        "respuesta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el país más grande del mundo?",
+        "opciones": ["A: Canadá", "B: Rusia", "C: China"],
+        "respuesta": 1
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Australia?",
+        "opciones": ["A: Sídney", "B: Melbourne", "C: Canberra"],
+        "respuesta": 2
+    },
+    {
+        "pregunta": "¿Cuál es el animal terrestre más rápido del mundo?",
+        "opciones": ["A: Guepardo", "B: León", "C: Tigre"],
+        "respuesta": 0
+    },
+    {
+        "pregunta": "¿Cuál es el metal más ligero?",
+        "opciones": ["A: Aluminio", "B: Litio", "C: Magnesio"],
+        "respuesta": 1
+    },
+    {
+        "pregunta": "¿Cuál es el país más poblado del mundo?",
+        "opciones": ["A: India", "B: China", "C: Estados Unidos"],
+        "respuesta": 0
+    }
+]
